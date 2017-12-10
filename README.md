@@ -7,11 +7,16 @@ easily the most powerful and cunning Jew in the area! Overtaking him will
 restore you to full health.
 
 
+
 DIRECTIONS:
 
 navigate to GAME/exe.linux-i686-3.5
+
 chmod +x sseic     #to make executable
+
 ./sseic            #to run program
+
+
 
 Player starts with three(3) lives
 Press p to pause game
@@ -21,6 +26,7 @@ Close window to quit game
 
 
 NOTE TO EDDWARDD:
+
 
 The source code is in source_code.py. Do not run that script,
 you will not have the dependancies to run it, it's just for you to
